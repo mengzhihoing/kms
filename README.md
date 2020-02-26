@@ -40,8 +40,8 @@ wmic os get caption
 得到对应key之后，使用管理员权限运行cmd执行安装key：
 
 <pre>
-slmgr /ipk xxxxx-xxxxx-xxxxx-xxxxx （备用 W269N-WFGWX-YVC9B-4J6C9-T83GX）
-</pre>
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+/pre>
 然后跟上面说的一样设置kms服务器地址，激活。
 
 
