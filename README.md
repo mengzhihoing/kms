@@ -41,7 +41,8 @@ wmic os get caption
 
 <pre>
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
-/pre>
+
+ </pre>
 然后跟上面说的一样设置kms服务器地址，激活。
 
 
