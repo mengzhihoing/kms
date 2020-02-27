@@ -1,4 +1,18 @@
+
+
+
+
 # kms
+
+##激活win10
+win10开始菜单-windows系统-右键点击【命令提示符】-更多-以管理员身份运行,直接复制以下命令  
+<pre>
+slmgr /skms kms.03k.org
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /ato
+</pre>
+
+
 http://03k.org/kms.html  
 
 使用方法
